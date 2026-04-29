@@ -1,0 +1,11 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"leds","",10,1.63,"",""
+"Conn_01x02_Socket","",1,0.35,"",""
+"Conn_01x01_Socket","",1,0.28,"",""
+"Resistor","1000ohms",1,0.10,"",""
+"TRIMMER ","50K OHM",1,2.87,"",""
+"CD4017","",1,1.27,"",""
+"Capacithor","1uF",1,0.28,"",""
+"Resistor","470ohms",1,0.10,"",""
+"NE555P","",1,0.51,"",""
+"Capacithor","0.01uF",1,0.10,"",""
